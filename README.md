@@ -1,1 +1,1 @@
-# my-first-project
+# my-college-projects
